@@ -11,4 +11,5 @@ Este repositório registra meu primeiro contato com a linguagem `Python`! Ele po
 
 ## Pastas
 
-- Fundamentos: Exercícios focados em operadores aritméticos, saída de dados, módulos e manipulçao de string;
+- assets: Pasta auxiliar para arquivos de diferentes tipos;
+- fundamentos: Exercícios focados em operadores aritméticos, saída de dados, módulos e manipulçao de string;
