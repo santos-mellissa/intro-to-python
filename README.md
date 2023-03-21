@@ -9,10 +9,6 @@ Este repositório registra meu primeiro contato com a linguagem `Python`! Ele po
 - Adaptar as boas práticas de desenvolvimento em `Python`.
 - Escrever funções.
 
-## Exercícios
+## Pastas
 
-- `script_1_boas_vindas.py` : Lê um nome e retorna uma mensagem de boas-vindas com o mesmo;
-
-- `script_2_data_nascimento.py` : Lê dia, mês e ano de nascimento e mostra data formatada;
-
-- `script_3_soma.py` : Recebe dois números e retorna a soma deles;
+- Fundamentos: Exercícios focados em operadores aritméticos, saída de dados, módulos e manipulçao de string;
