@@ -8,6 +8,6 @@ pygame.mixer.init()
 # Iniciando o Pygame
 pygame.init()
 
-pygame.mixer.music.load('python/into_to_python/021_audio_mp3.mp3')
+pygame.mixer.music.load('into_to_python/assets/021_audio_mp3.mp3')
 pygame.mixer.music.play(loops=0, start=0.0)
 pygame.event.wait()
