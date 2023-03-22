@@ -13,3 +13,4 @@ Este repositório registra meu primeiro contato com a linguagem `Python`! Ele po
 
 - assets: Pasta auxiliar para arquivos de diferentes tipos;
 - fundamentos: Exercícios focados em operadores aritméticos, saída de dados, módulos e manipulçao de string;
+- estruturas_de_controle: Exercícios focados em condições aninhadas e estrtutras de repetição (for, while);
