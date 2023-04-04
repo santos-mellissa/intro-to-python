@@ -1,4 +1,4 @@
-"""Refaça o desafio 009 (pasta fundamentos), mostrando a tabuada de um número que o usuário escolher,
+"""Refaça o desafio 009 (intro-to-python/fundamentos/009_tabuada.py), mostrando a tabuada de um número que o usuário escolher,
 só que agora, utilizando um laço for."""
 
 num = int(input('\nEntre com um número para saber sua tabuada: '))
